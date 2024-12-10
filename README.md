@@ -11,8 +11,8 @@ como de la ejecución de sus procesos y servicios, permitiendonos evaluar la sal
 
 ## Herramientas del sistema
 Existen multiples herramientas en nuestro equipo que nos permiten consultar informacion sobre el estado del mismo. Se dividen segun que información queremos consultar:
-1. Procesos
-2. Memoria
+1. [Procesos](/procesos.md)
+2. [Memoria](/memoria.md)
 3. Discos
 4. Trafico de red
 
