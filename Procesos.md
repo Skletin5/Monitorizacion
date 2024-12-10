@@ -10,6 +10,7 @@ Este comando te muestra una lista con todos los procesos que se estén ejecutand
 
 Ejemplo: 
 ![ps solo](/img/procesos/ps_solo.PNG)
+
 Existen distintas opciones que nos permiten trabajar con este comando:
 - `-A`: Muestra todos los procesos que se esten ejecutando en el sistema y de todos los usuarios.
 - `-a`: Muestra solo los procesos asociados a la terminal desde la que se ejecuta.
@@ -28,6 +29,7 @@ Este comando nos permite ver los procesos en ejecución en tiempo real y detalle
 
 Ejemplo:
 ![top solo](/img/procesos/top_solo.PNG)
+
 Durante su ejecución podemos interactuar con distintas teclas para modificar como nos muestra la información.
 - `C`: Alterna entre mostrar el nombre del proceso y el comando completo
 - `T`: Ordena por tiempo de ejecución
@@ -43,6 +45,7 @@ Similar a top, pero con una interfaz más visual y funciones adicionales, como l
 
 Ejemplo:
 ![htop](/img/procesos/htop.PNG)
+
 Justo debajo vemos todas las opciones que nos da esta herramnienta, pero existen unos pocos atajos para ordenar la información:
 -`M`: Ordena por uso de memoria.
 -`P`: Ordena por uso de procesador.
@@ -57,6 +60,7 @@ Como todos los anteriores, pero ademas registra e informa de toda la actividad d
 
 Ejemplo:
 ![atop](/img/procesos/htop.PNG)
+
 Podemos ordenar la informacion con estar teclas:
 -`A`: Ordena por recurso del sistema mas utilizado.
 -`C`: Ordena por consumo de cpu.
