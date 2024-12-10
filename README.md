@@ -6,6 +6,6 @@ Esto se basa en la recogida de metricas y datos sobre el funcionamiento del sist
 
 A continuación mostraremos los distintos comandos que nos permiten monitorizar servicios de nuestro servidor.
 
-## Memoria
-## Procesos
-## Red
+1.- Memoria
+2.- Procesos
+3.- Red
