@@ -6,7 +6,7 @@ Existen varios comando que nos permite llevar acabo dichas tareas:
 ## Free
 Este comando proporciona toda la información sobre la RAM, cuanta RAM se está utilizando, cuenta está disponible, etc.
 
-`$ free`
+`$ free [Opciones]`
 
 Ejemplo:  
 ![free](/img/memoria/free.PNG)
@@ -24,10 +24,35 @@ Muestra el espacio utilizado y disponible en los sistemas de archivos montados.
 Ejemplo:
 ![df](/img/memoria/df.PNG)
 
-Podemos agregar opciones como:
--`-h`: Igual que en free, nos muestra los datos en Mb y Gb.
--`-i`: Nos muestran sistemas de ficheros con 0 bytes.
+Podemos agregar opciones como:  
+-`-h`: Igual que en free, nos muestra los datos en Mb y Gb.  
+-`-i`: Nos muestran sistemas de ficheros con 0 bytes.  
 -`-a`: Muestra todos los ficheros.
 
 ## DU
  Muestra el espacio ocupado por un fichero o directorio.
+
+`$ du [opciones]`
+
+Ejemplo:
+![du](/img/memoria/df.PNG)
+
+Podemos agregar opciones como:  
+-`-h`: Muestra la informacion en Mb o Gb.  
+-`-s`: MUestra la informacion en la carpeta actual y no subcarpetas.
+
+## IOSTAT
+Se utiliza para rastrear los problemas de rendimiento de los dispositivos de
+almacenamiento.
+
+`$ iostat [Opciones]`
+
+Ejemplo:
+![iostat](/img/memoria/iostat.PNG)
+
+Podemos agregar opciones como:
+-`-c`: Muestra información sobre la CPU.
+-`-d`: Muestra informacion sobre los dispositivos de E/S.
+-`-x`: Muestra información mas detallada.
+-`-k`: Muestra los datos en Kb.
+-`-m`: Muestra la informacion en Mb.
