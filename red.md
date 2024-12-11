@@ -37,7 +37,7 @@ Podemos ejecutarlo así:
 
 `$ tcptrack`
 
-Ejemplo:
+Ejemplo:  
 ![tcptrack](/img/red/tcptrack.PNG)  
 
 Una opción que podemos usar es `-i [nombre interfaz]` para escanear el trafico de una interfaz especifica.
@@ -51,7 +51,7 @@ para ejecutarlo escribimos:
 
 `$ sudo iptraf`
 
-Ejemplo:
+Ejemplo:  
 ![iptraf](/img/red/iptraf.PNG)
 
 Nos despliega un menu con el que podemos trabajar.
