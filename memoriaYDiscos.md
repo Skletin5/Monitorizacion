@@ -21,7 +21,7 @@ Muestra el espacio utilizado y disponible en los sistemas de archivos montados.
 
 `$ db [Opciones]`
 
-Ejemplo:
+Ejemplo:  
 ![df](/img/memoria/df.PNG)
 
 Podemos agregar opciones como:  
@@ -34,7 +34,7 @@ Podemos agregar opciones como:
 
 `$ du [opciones]`
 
-Ejemplo:
+Ejemplo:  
 ![du](/img/memoria/du.PNG)
 
 Podemos agregar opciones como:  
@@ -51,7 +51,7 @@ comando para su uso:
 
 `$ iostat [Opciones]`
 
-Ejemplo:
+Ejemplo:  
 ![iostat](/img/memoria/iostat.PNG)
 
 Podemos agregar opciones como:  
