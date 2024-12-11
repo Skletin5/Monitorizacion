@@ -12,7 +12,7 @@ Tras su instalación, lo utilizamos de la siguiente manera:
 `$ tcpdump [Opciones] [Filtros]`
 
 Ejemplo:  
-![tcpdump](/img/red/tcpdump.PNG)
+![tcpdump](/img/red/tcpdump.PNG)  
 Las opciones que podemos agregar son:  
 -`-c [cantidad]`: Analiza la cantidad de veces indicada.  
 -`-D` Muestra una lista de todas las interfaces disponibles por numeros.  
