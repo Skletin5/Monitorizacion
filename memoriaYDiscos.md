@@ -1,4 +1,4 @@
-# Memoria
+# Memoria y Discos
 Para que nuestro servidor trabaje correctamente es indispensale que disponga de memoria suficiente para sus procesos y espacio de almacenamiento. Por lo que la monitorización de los mismos es crucial para asegurar el correcto funcionamiento del mismo.
 
 Existen varios comando que nos permite llevar acabo dichas tareas:
@@ -35,7 +35,7 @@ Podemos agregar opciones como:
 `$ du [opciones]`
 
 Ejemplo:
-![du](/img/memoria/df.PNG)
+![du](/img/memoria/du.PNG)
 
 Podemos agregar opciones como:  
 -`-h`: Muestra la informacion en Mb o Gb.  
@@ -43,16 +43,20 @@ Podemos agregar opciones como:
 
 ## IOSTAT
 Se utiliza para rastrear los problemas de rendimiento de los dispositivos de
-almacenamiento.
+almacenamiento. Pero esta herramienta necesita ser instalada primero.
+
+`$ sudo apt install sysstat`
+
+comando para su uso:
 
 `$ iostat [Opciones]`
 
 Ejemplo:
 ![iostat](/img/memoria/iostat.PNG)
 
-Podemos agregar opciones como:
--`-c`: Muestra información sobre la CPU.
--`-d`: Muestra informacion sobre los dispositivos de E/S.
--`-x`: Muestra información mas detallada.
--`-k`: Muestra los datos en Kb.
+Podemos agregar opciones como:  
+-`-c`: Muestra información sobre la CPU.  
+-`-d`: Muestra informacion sobre los dispositivos de E/S.  
+-`-x`: Muestra información mas detallada.  
+-`-k`: Muestra los datos en Kb.  
 -`-m`: Muestra la informacion en Mb.
