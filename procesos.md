@@ -8,7 +8,7 @@ Este comando te muestra una lista con todos los procesos que se estén ejecutand
 
 `$ ps [Opciones]`
 
-Ejemplo: 
+Ejemplo:  
 ![ps solo](/img/procesos/ps_solo.PNG)
 
 Existen distintas opciones que nos permiten trabajar con este comando:  
@@ -27,7 +27,7 @@ Este comando nos permite ver los procesos en ejecución en tiempo real y detalle
 
 `$ top`
 
-Ejemplo:
+Ejemplo:  
 ![top solo](/img/procesos/top_solo.PNG)
 
 Durante su ejecución podemos interactuar con distintas teclas para modificar como nos muestra la información.  
@@ -43,7 +43,7 @@ Similar a top, pero con una interfaz más visual y funciones adicionales, como l
 
 `$ htop`
 
-Ejemplo:
+Ejemplo:  
 ![htop](/img/procesos/htop.PNG)
 
 Justo debajo vemos todas las opciones que nos da esta herramnienta, pero existen unos pocos atajos para ordenar la información:  
@@ -58,7 +58,7 @@ Como todos los anteriores, pero ademas registra e informa de toda la actividad d
 
 `$ atop`
 
-Ejemplo:
+Ejemplo:  
 ![atop](/img/procesos/htop.PNG)
 
 Podemos ordenar la informacion con estar teclas:  
