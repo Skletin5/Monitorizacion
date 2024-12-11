@@ -18,10 +18,10 @@ Existen multiples herramientas en nuestro equipo que nos permiten consultar info
 ## Sistemas de monitorización
 Tambien existen múltiples aplicaciones que nos permiten llevar a cabo un seguimiento mas cómodo del funcionamiento de nuestros sistemas.
 
-1. Nagios:
+1. Nagios:  
   Es una herramienta de monitorización de código abierto que permite supervisar hosts, servicios y redes. Ofrece notificaciones, informes y visualizaciones a través de su interfaz web.
 
-2. Zabbix:
+2. Zabbix:  
    Proporciona monitorización avanzada con capacidades de recopilación de datos, alertas, visualizaciones gráficas y más. Su interfaz web es robusta y fácil de usar.
    
 3. prometheus:  
