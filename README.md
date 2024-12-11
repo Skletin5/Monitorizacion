@@ -28,3 +28,6 @@ Tambien existen múltiples aplicaciones que nos permiten llevar a cabo un seguim
    Es una solución de monitorización y alerta diseñada especialmente para entornos dinámicos. Ofrece almacenamiento local de series temporales y una interfaz web para consultas y visualizaciones.
 4. Grafana:  
    Aunque no es una herramienta de monitorización en sí misma, Grafana es una plataforma de visualización que se integra con diversas fuentes de datos, incluidas muchas herramientas de monitorización. Puede utilizarse para crear paneles personalizados y visualizaciones interactivas.
+
+## Mapa conceptual
+![mapaConceptual](/img/mapa.PNG)
